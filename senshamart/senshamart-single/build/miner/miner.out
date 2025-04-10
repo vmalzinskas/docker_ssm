@@ -1,0 +1,28 @@
+Starting: node /usr/src/app/build/miner/miner-app.js
+Executing: node /usr/src/app/build/miner/miner-app.js
+Started mining 0 commits
+Listening on port 3001
+Mined a block of difficulty 2 in 49.668623ms with 0 txs
+Wrote blocks [0,1)
+Started mining 0 commits
+Chain-server:0 connected, initiated: false
+Chain-server:0 set sub to txs to false
+Chain-server:0: handleChain, this.differing: 1, our startI: 0, our length: 1, their start: 1, their length 0
+Chain-server:1 connected, initiated: false
+Mined a block of difficulty 3 in 2738.463484ms with 0 txs
+Wrote blocks [1,2)
+Started mining 0 commits
+Chain-server:1 set sub to txs to false
+Chain-server:1: handleChain, this.differing: 1, our startI: 0, our length: 2, their start: 1, their length 0
+Mined a block of difficulty 2 in 1209.805961ms with 0 txs
+Wrote blocks [2,3)
+Started mining 0 commits
+Mined a block of difficulty 3 in 526.733842ms with 0 txs
+Wrote blocks [3,4)
+Started mining 0 commits
+Mined a block of difficulty 2 in 3005.624465ms with 0 txs
+Wrote blocks [4,5)
+Started mining 0 commits
+Mined a block of difficulty 3 in 1020.48954ms with 0 txs
+Wrote blocks [5,6)
+Started mining 0 commits

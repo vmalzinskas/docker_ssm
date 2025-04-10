@@ -1,0 +1,16 @@
+Starting: node /usr/src/app/build/wallet/wallet-app.js
+Executing: node /usr/src/app/build/wallet/wallet-app.js
+Wallet-chain-server:0 connecting
+Listening on port 7001
+Wallet-chain-server:0 ERROR: Error event: connect ECONNREFUSED 172.18.0.3:3002
+Wallet-chain-server:0 connecting
+Wallet-chain-server:0 connected, initiated: true
+Wallet-chain-server:0 set sub to txs to true
+Wallet-chain-server:0: handleChain, this.differing: 0, our startI: 0, our length: 0, their start: 0, their length 1
+Wrote blocks [0,1)
+Wallet-chain-server:0: handleChain, this.differing: 1, our startI: 0, our length: 1, their start: 1, their length 3
+Wrote blocks [1,4)
+Wallet-chain-server:0: handleChain, this.differing: 4, our startI: 0, our length: 4, their start: 4, their length 1
+Wrote blocks [4,5)
+Wallet-chain-server:0: handleChain, this.differing: 5, our startI: 0, our length: 5, their start: 5, their length 1
+Wrote blocks [5,6)

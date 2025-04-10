@@ -1,0 +1,20 @@
+Starting: node /usr/src/app/build/broker/broker-app.js
+Executing: node /usr/src/app/build/broker/broker-app.js
+Sensor MQTT started
+Chain-server:0 connecting
+on blockchain change
+Listening on port 5001
+Chain-server:0 connected, initiated: true
+Chain-server:0 set sub to txs to true
+Chain-server:0: handleChain, this.differing: 0, our startI: 0, our length: 0, their start: 0, their length 1
+Wrote blocks [0,1)
+on blockchain change
+Chain-server:0: handleChain, this.differing: 1, our startI: 0, our length: 1, their start: 1, their length 1
+Wrote blocks [1,2)
+on blockchain change
+Chain-server:0: handleChain, this.differing: 2, our startI: 0, our length: 2, their start: 2, their length 2
+Wrote blocks [2,4)
+on blockchain change
+Chain-server:0: handleChain, this.differing: 4, our startI: 0, our length: 4, their start: 4, their length 2
+Wrote blocks [4,6)
+on blockchain change
